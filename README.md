@@ -27,4 +27,4 @@ Run the py file on VSCode
 
 This project uses the **Ecommerce Text Classification Dataset** for text classification:
 
-- **Dataset Name**: [E-Commerce Text Classification](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
+- **Source**: [E-Commerce Text Classification](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
